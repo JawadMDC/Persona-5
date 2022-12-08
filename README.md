@@ -15,7 +15,7 @@ About this Project: I made a text based console game which is influenced from th
 
 3. Help from __Ryuji__- Ryuji is Jokers friend from P5R and in my game you can use Ryuji to instant kill the shadow your up against. To not make things broken, you can only use Ryuji's ability once since start and as you fight shadows you have a 5% chance of making Ryuji use his skill again.
 
-4. Health Potion- this option is used to heal Jokers health by 15. When you start out you will be given 5 health potions and after defeating a shadow you will have a 35% chance to steal one from the shadow.
+4. Health Potion- this option is used to heal Jokers health by 15. When you start out you will be given 3 health potions and after defeating a shadow you will have a 35% chance to steal one from the shadow.
 
 5. Super Health Potion- this option is used to heal Jokers health by 40. When you start out you will be given 1 super health potions and after defeating a shadow you will have a 10% chance to steal one from the shadow.
 
